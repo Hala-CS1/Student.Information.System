@@ -1,1 +1,21 @@
-# Student..Information.System
+# 🎓 Student Information System 
+
+A Java CLI application developed for the **Advanced Programming** course to manage student records, grades, and mentors using OOP principles.
+
+## ✨ Features
+*t Information System (SIS)Simple login system.
+*ـ README الخاص بالـ GitHub، فهذه نTrack profiles, majors, and assigned advisors.
+* Grade Processing: 2D-array tracking, sorting, and pass/fail evaluation.
+* Data Persistence: Automatically saves output to StudentInfo.txt.
+
+## 🛠️ Tech Stack
+*لـ README الخاصJava
+* Concepts: OOP (Inheritance, Encapsulation, Aggregation), Dynamic Arrays, File I/O
+
+## 📁 Key Files
+*ent Information / StudentGraddes.java
+* Mentor.java / Login.java
+* StudentMain.java
+
+## 📖 Course
+Advanced Programming
