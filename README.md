@@ -10,7 +10,7 @@ A Java CLI application developed for the **Object-Oriented Programming (OOP)** c
 ## Tech Stack
 * Concepts: OOP (Inheritance, Encapsulation, Aggregation), Dynamic Arrays, File I/O
 
-## Key Files
+## Files
 * Project Report
 * ProjectOOP : 
 * Student.java
