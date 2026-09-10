@@ -11,8 +11,8 @@ A Java CLI application developed for the **Advanced Programming** course to mana
 * Concepts: OOP (Inheritance, Encapsulation, Aggregation), Dynamic Arrays, File I/O
 
 ## 📁 Key Files
-* `Student.java` / `StudentGraddes.java`
-* * Mentor.java / Login.java
+* Student.java / StudentGraddes.java
+* Mentor.java / Login.java
 * StudentMain.java
 
 ## 📖 Course
