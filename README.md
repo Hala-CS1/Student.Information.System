@@ -2,15 +2,15 @@
 
 A Java CLI application developed for the **Object-Oriented Programming (OOP)** course to manage student records, grades, and mentors using OOP principles.
 
-## ✨ Features
+## Features
 * User Authentication: Simple login system.
 * Grade Processing: 2D-array tracking, sorting, and pass/fail evaluation.
 * Data Persistence: Automatically saves output to StudentInfo.txt.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * Concepts: OOP (Inheritance, Encapsulation, Aggregation), Dynamic Arrays, File I/O
 
-## 📁 Key Files
+## Key Files
 * Project Report
 * ProjectOOP : 
 * Student.java
@@ -19,5 +19,5 @@ A Java CLI application developed for the **Object-Oriented Programming (OOP)** c
 * Login.java
 * StudentMain.java
 
-## 📖 Course
+## Course
 Object-Oriented Programming (OOP)
