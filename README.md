@@ -3,7 +3,7 @@
 A Java CLI application developed for the **Advanced Programming** course to manage student records, grades, and mentors using OOP principles.
 
 ## ✨ Features
-* **User Authentication:** Simple login system.
+* User Authentication:** Simple login system.
 * Grade Processing: 2D-array tracking, sorting, and pass/fail evaluation.
 * Data Persistence: Automatically saves output to StudentInfo.txt.
 
