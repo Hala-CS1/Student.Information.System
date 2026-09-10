@@ -1,9 +1,9 @@
 # 🎓 Student Information System 
 
-A Java CLI application developed for the **Advanced Programming** course to manage student records, grades, and mentors using OOP principles.
+A Java CLI application developed for the **Object-Oriented Programming (OOP)** course to manage student records, grades, and mentors using OOP principles.
 
 ## ✨ Features
-* User Authentication:** Simple login system.
+* User Authentication: Simple login system.
 * Grade Processing: 2D-array tracking, sorting, and pass/fail evaluation.
 * Data Persistence: Automatically saves output to StudentInfo.txt.
 
@@ -16,4 +16,4 @@ A Java CLI application developed for the **Advanced Programming** course to mana
 * StudentMain.java
 
 ## 📖 Course
-Advanced Programming
+Object-Oriented Programming (OOP)
